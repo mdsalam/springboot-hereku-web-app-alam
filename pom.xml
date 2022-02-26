@@ -41,13 +41,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<dependency>
-	<groupId>com.walterjwhite.java.dependencies</groupId>
-    <artifactId>h2</artifactId>
-    <version>0.0.17</version>
-    <type>pom</type>
-    <scope>test</scope>
- </dependency>
+	 
 
 	<build>
 		<plugins>
